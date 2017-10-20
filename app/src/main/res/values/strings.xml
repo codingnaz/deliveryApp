@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">deliveryApp</string>
+    <string name="click_here_to_reset_password">Click Here to Reset Password</string>
+    <string name="back_to_signin">Back To SignIn</string>
+    <string name="first_name">First Name</string>
+    <string name="birth_date_mm_dd_yyyy">Birth Date(mm/dd/yyyy)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm">Confirm</string>
+</resources>
